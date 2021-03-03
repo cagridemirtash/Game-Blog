@@ -1,0 +1,35 @@
+/*------------------------------------------------
+    ## widget-style
+------------------------------------------------*/
+.category-sitebar {
+	.widget {
+		margin-bottom: 55px;
+	}
+	.widget-title {
+		border-bottom: 1px solid #b3b3b3;
+		padding-bottom: 16px;
+		margin-bottom: 20px;
+	}
+}
+.widget_tag_cloud .tagcloud a {
+	margin-right: 5px;
+	margin-bottom: 10px;
+	display: inline-block;
+	transition: 0.4s;
+	border: 1px solid #393e75;
+	height: 36px;
+	line-height: 36px;
+	padding: 0 15px;
+	font-size: 14px;
+	color: rgba(255, 255, 255, 0.8);
+	&:hover {
+		background: var(--main-color);
+		border: 1px solid var(--main-color);
+	}
+}
+
+.widget-category {
+	.row {
+		padding: 0 8px;
+	}
+}

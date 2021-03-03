@@ -1,0 +1,326 @@
+{
+    "blog": [
+        {
+            "id": 1,
+            "title": "What is FIFA",
+            "excerpt": "FIFA is a series of association football sports video games developed and released annually",
+            "content": "FIFA is a series of association football sports video games developed and released annually by Electronic Arts under the EA Sports label. Football video games such as Sensible Soccer, Kick Off and Match Day had been developed since the late 1980s and already competitive in the games market when EA Sports announced a football game as the next addition to their EA Sports label. The Guardian called the series 'he slickest, most polished and by far the most popular football game around'.[5] As of 2011, the FIFA franchise has been localised into 18 languages and available in 51 countries.[6] Listed in Guinness World Records as the best-selling sports video game franchise in the world, by 2021, the FIFA series had sold over 325 million copies. It is also one of the best-selling video game franchises. When the series began in late 1993,it was notable for being the first to have an official licence from FIFA, the world governing body of football. The latest installments in the series contain many exclusively licensed leagues including leagues and teams from around the world, including the German Bundesliga and 2. Bundesliga, English Premier League and EFL Championship, Italian Serie A and Serie B, Spanish La Liga and La Liga 2, French Ligue 1 and Ligue 2, Portuguese Primeira Liga, Turkish Süper Lig, Dutch Eredivisie, Scottish Premiership, the Swiss Super League, Russian Premier League, Polish Ekstraklasa, Mexican Liga MX, American Major League Soccer, South Korean K-League, Japanese J1 League, the Chinese Super League, Saudi Professional League, Australian A-League, Chilean Primera División, Brazilian Campeonato Brasileiro Série A and Argentine Superliga Argentina, allowing the use of real leagues, clubs and player names and likenesses within the games. Popular clubs from around the world, including some teams from Greece, Ukraine and South Africa, are also included, without those nations' entire leagues. The main series has been complemented by additional installments based on single major tournaments, such as the FIFA World Cup, UEFA Champions League, UEFA Europa League and UEFA European Football Championship, as well as a series of football management titles.",
+            "slug": "what-is-counter-strike",
+            "img_path": "assets/img/blogs-new/fifa.jpg",
+            "date": "june 25,2020",
+            "category": "FIFA",
+            "category_slug":"fifa",
+            "author": "Çağrı Demirtaş",
+            "author_slug":"cagri-demirtas",
+            "comment_count":4
+        },
+        {
+            "id": 1,
+            "title": "What is League of Legends",
+            "excerpt": "League of Legends is a 2009 multiplayer online battle arena video game developed and published by Riot Games. ",
+            "content": "League of Legends is a 2009 multiplayer online battle arena video game developed and published by Riot Games. Inspired by Defense of the Ancients, a custom map for Warcraft III, Riot's founders sought to develop a stand-alone game in the same genre. Since its release in October 2009, the game has been free-to-play, and is monetized through purchasable character customization. The game is available for Microsoft Windows and macOS. In the game, two teams of five players battle in player versus player combat, each team occupying and defending their own half of the map. Each of the ten players controls a character, known as a 'champion' with unique abilities and differing styles of play. During a match, champions become more powerful by collecting experience points and purchasing items to defeat the opposing team. In the game's main mode, Summoner's Rift, a team wins by pushing through to the enemy base and destroying their 'nexus', a large structure located within it. League of Legends received generally positive reviews, critics highlighting its accessibility, character designs, and production value. The game's long lifespan has resulted in a critical reappraisal, with reviews trending positively. The player base's negative and abusive in-game behavior, criticized since early in the game's lifetime, persists despite attempts by Riot to fix the problem. In 2019, the game regularly peaked at eight million concurrent players, and its popularity has led to tie-ins such as music videos, comic books, short stories, and an upcoming animated series. Its success has also spawned several spin-off video games, including a mobile version and a digital collectible card game. A massively multiplayer online role-playing game is in development. The game is often cited as the world's largest esport, with an international competitive scene composed of 13 leagues. The 2019 League of Legends World Championship had over 100 million unique viewers, peaking at a concurrent viewership of 44 million, with a minimum prize pool of US$2.5 million. The North American league is broadcast on cable television sports channel ESPN.",
+            "slug": "what-is-league-of-legends",
+            "img_path": "assets/img/blogs-new/lol.jpg",
+            "date": "june 10,2020",
+            "category": "LOL",
+            "category_slug":"lol",
+            "author": "Emin Başbayan ",
+            "author_slug":"emin-basbayan",
+            "comment_count":4
+        },
+        {
+            "id": 1,
+            "title": "What is PUBG",
+            "excerpt": "PlayerUnknown's Battlegrounds (PUBG) is an online multiplayer battle royale game",
+            "content": "PlayerUnknown's Battlegrounds (PUBG) is an online multiplayer battle royale game developed and published by PUBG Corporation, a subsidiary of South Korean video game company Bluehole. The game is based on previous mods that were created by Brendan 'PlayerUnknown' Greene for other games, inspired by the 2000 Japanese film Battle Royale, and expanded into a standalone game under Greene's creative direction. In the game, up to one hundred players parachute onto an island and scavenge for weapons and equipment to kill others while avoiding getting killed themselves. The available safe area of the game's map decreases in size over time, directing surviving players into tighter areas to force encounters. The last player or team standing wins the round. PUBG was first released for Microsoft Windows via Steam's early access beta program in March 2017, with a full release in December 2017. The game was also released by Microsoft Studios for the Xbox One via its Xbox Game Preview program that same month, and officially released in September 2018. PUBG Mobile, a free-to-play mobile game version for Android and iOS, was released in 2018, in addition to a port for the PlayStation 4. A version for the Stadia streaming platform was released in April 2020. PUBG is one of the best-selling, highest-grossing and most-played video games of all time. The game has sold over 70 million copies on personal computers and game consoles as of 2020, in addition to PUBG Mobile accumulating 734 million downloads and grossing over $4.3 billion on mobile devices as of December 2020. PUBG received positive reviews from critics, who found that while the game had some technical flaws, it presented new types of gameplay that could be easily approached by players of any skill level and was highly replayable. The game was attributed to popularizing the battle royale genre, with a number of unofficial Chinese clones also being produced following its success. The game also received several Game of the Year nominations, among other accolades. PUBG Corporation has run several small tournaments and introduced in-game tools to help with broadcasting the game to spectators, as they wish for it to become a popular esport. The game has also been banned in some countries for allegedly being harmful and addictive to younger players.",
+            "slug": "what-is-pubg",
+            "img_path": "assets/img/blogs-new/pubg.jpg",
+            "date": "june 25,2020",
+            "category": "PUBG",
+            "category_slug":"what-is-pubg",
+            "author": "Rabia Sönmez",
+            "author_slug":"rabia-sonmez",
+            "comment_count":4
+        },
+        {
+            "id": 1,
+            "title": "What is GTA",
+            "excerpt": "Grand Theft Auto (GTA) is a series of action-adventure games created by David Jones",
+            "content": "Grand Theft Auto (GTA) is a series of action-adventure games created by David Jones and Mike Dailly.[2] Later titles were developed under the oversight of brothers Dan and Sam Houser, Leslie Benzies and Aaron Garbut. It is primarily developed by British development house Rockstar North (formerly DMA Design), and published by its parent company, Rockstar Games. The name of the series references the term 'grand theft auto', used in the United States for motor vehicle theft. Gameplay focuses on an open world where the player can complete missions to progress an overall story, as well as engage in various side activities. Most of the gameplay revolves around driving and shooting, with occasional role-playing and stealth elements. The series also has elements of the earlier beat 'em up games from the 16-bit era. The games in the Grand Theft Auto series are set in fictional locales modelled after real-life cities, at various points in time from the early 1960s to the 2010s. The original game's map encompassed three cities—Liberty City (based on New York City), San Andreas (based on San Francisco),[a] and Vice City (based on Miami)—but later titles tend to focus on a single setting, usually one of the original three locales, albeit remodelled and significantly expanded. The series centers on different protagonists who attempt to rise through the ranks of the criminal underworld, although their motives for doing so vary in each title. The antagonists are commonly characters who have betrayed the protagonist or their organisation, or characters who have the most impact impeding the protagonist's progress. Several film and music veterans have voiced characters in the games, including Ray Liotta, Dennis Hopper, Samuel L. Jackson, James Woods, Debbie Harry, Axl Rose and Peter Fonda.[3] DMA Design began the series in 1997, with the release of the Grand Theft Auto. As of 2020, the series has eleven stand-alone games and four expansion packs. The third main title, Grand Theft Auto III, is considered a landmark game, as it brought the series to a three-dimensional (3D) setting and more immersive experience. Subsequent titles have followed and built upon the concept established in Grand Theft Auto III, and received significant acclaim. They have influenced other open-world action games, and led to the label Grand Theft Auto clone on similar games. The series has been critically acclaimed and commercially successful, having shipped more than 280 million units with an estimated gross revenue of over $9 billion,[4][5] making it the fourth-highest selling video game franchise of all time, behind Nintendo's Mario and Pokémon franchises,[6] and Tetris.[7] In 2006, Grand Theft Auto was featured in a list of British design icons in the Great British Design Quest organised by the BBC and the Design Museum.[8] In 2013, The Telegraph ranked Grand Theft Auto among Britain's most successful exports.[9] The series has also been controversial for its adult nature and violent themes.",
+            "slug": "what-is-gta",
+            "img_path": "assets/img/blogs-new/gta.jpg",
+            "date": "june 25,2020",
+            "category": "GTA",
+            "category_slug":"gta",
+            "author": "Emin Başbayan",
+            "author_slug":"emin-basbayan",
+            "comment_count":4
+        }
+    ],
+    "blog2": [
+        {
+            "id": 1,
+            "title": "What is Fortnite",
+            "excerpt": "Fortnite is an online video game developed by Epic Games and released in 2017.",
+            "content": "Fortnite is an online video game developed by Epic Games and released in 2017. It is available in three distinct game mode versions that otherwise share the same general gameplay and game engine: Fortnite: Save the World, a cooperative hybrid-tower defense-shooter-survival game for up to four players to fight off zombie-like creatures and defend objects with traps and fortifications they can build; Fortnite Battle Royale, a free-to-play battle royale game in which up to 100 players fight to be the last person standing; and Fortnite Creative, in which players are given complete freedom to create worlds and battle arenas. Save the World and Battle Royale were released in 2017 as early access titles, while Creative was released on December 6, 2018. Save the World is available only for Windows, macOS,[b] PlayStation 4, and Xbox One, while Battle Royale and Creative released for all those platforms, and also for Nintendo Switch, iOS,[b] and Android devices.[b] The game is expected to also launch with the release of the next-generation PlayStation 5 and Xbox Series X/S consoles. While the Save the World and Creative versions have been successful for Epic Games, Fortnite Battle Royale in particular became a resounding success – drawing in more than 125 million players in less than a year, earning hundreds of millions of dollars per month, and becoming a cultural phenomenon.",
+            "slug": "what-is-fornite",
+            "img_path": "assets/img/blogs-new/fornite.jpg",
+            "date": "june 25,2020",
+            "category": "FORTNITE",
+            "category_slug":"fornite",
+            "author": "Rabia Sönmez",
+            "author_slug":"rabia-sonmez",
+            "comment_count":4
+        },
+        {
+            "id": 1,
+            "title": "What is SIMS",
+            "excerpt": "The Sims is a series of life simulation video games developed by Maxis and published",
+            "content": "The Sims is a series of life simulation video games developed by Maxis and published by Electronic Arts. The franchise has sold nearly 200 million copies worldwide, and it is one of the best-selling video game series of all time.[1] The games in the Sims series are largely sandbox games, in that they lack any defined goals (except for some later expansion packs and console versions which introduced this gameplay style). The player creates virtual people called Sims, places them in houses, and helps direct their moods and satisfy their desires. Players can either place their Sims in pre-constructed homes or build them themselves. Each successive expansion pack and game in the series augmented what the player could do with their Sims. The Sims series is part of the larger Sim series, started by SimCity in 1989.",
+            "slug": "what-is-sims",
+            "img_path": "assets/img/blogs-new/sims.jpg",
+            "date": "june 25,2020",
+            "category": "SIMS",
+            "category_slug":"sims",
+            "author": "Çağrı Demirtaş",
+            "author_slug":"cagri-demirtas",
+            "comment_count":4
+        },
+        {
+            "id": 1,
+            "title": "What is Minecraft",
+            "excerpt": "Minecraft is a sandbox video game developed by Mojang. The game was created by Markus",
+            "content": "Minecraft is a sandbox video game developed by Mojang. The game was created by Markus 'Notch' Persson in the Java programming language. Following several early test versions, it was released as a paid public alpha for personal computers in 2009 before releasing in November 2011, with Jens Bergensten taking over development. Minecraft has since been ported to several other platforms and is the best-selling video game of all time, with 200 million copies sold and 126 million monthly active users as of 2020. In Minecraft, players explore a blocky, procedurally-generated 3D world with infinite terrain, and may discover and extract raw materials, craft tools and items, and build structures or earthworks. Depending on game mode, players can fight computer-controlled 'mobs', as well as cooperate with or compete against other players in the same world. Game modes include a survival mode, in which players must acquire resources to build the world and maintain health, and a creative mode, where players have unlimited resources. Players can modify the game to create new gameplay mechanics, items,  Minecraft has been critically acclaimed, winning several awards and being cited as one of the greatest video games of all time. Social media, parodies, adaptations, merchandise, and the annual MineCon conventions played large roles in popularizing the game. It has also been used in educational environments, especially in the realm of computing systems, as virtual computers and hardware devices have been built in it. In 2014, Mojang and the Minecraft intellectual property were purchased by Microsoft for US$2.5 billion. A number of spin-off games have also been produced, such as Minecraft: Story Mode, Minecraft Dungeons, and Minecraft Earth.",
+            "slug": "what-is-minecraft",
+            "img_path": "assets/img/blogs-new/minecraft.jpg",
+            "date": "june 25,2020",
+            "category": "MINECRAFT",
+            "category_slug":"minecraft",
+            "author": "Emin Başbayan",
+            "author_slug":"emin-basbayan",
+            "comment_count":4
+        }
+    ],
+    "blog3": [
+        {
+            "id": 1,
+            "title": "What is Valorant",
+            "excerpt": "Valorant is a team-based tactical shooter and first-person shooter set in the near future.",
+            "content": "Valorant is a team-based tactical shooter and first-person shooter set in the near future.Players play as one of a set of agents, characters designed based on several countries and cultures around the world. In the main game mode, players are assigned to either the attacking or defending team with each team having five players on it. Agents have unique abilities, each requiring charges, as well as a unique ultimate ability that requires charging through kills, deaths, or spike actions. Every player starts each round with a 'classic' pistol and one or more 'signature ability' charge. Other weapons and ability charges can be purchased using an in-game economic system that awards money based on the outcome of the previous round, any kills the player is responsible for, and any actions taken with the spike. The game has an assortment of weapons including secondary guns like sidearms and primary guns like submachine guns, shotguns, machine guns, assault rifles and sniper rifles. There are automatic and semi-automatic weapons that have a shooting pattern that has to be controlled by the player in order to be able to shoot accurately. Different agents allow players to find more ways to plant the Spike and style on enemies with scrappers, strategists, and hunters of every description. It currently offers 14 agents to choose from. They are Brimstone, Phoenix, Sage, Sova, Viper, Cypher, Reyna, Killjoy, Breach, Omen, Jett, Raze, Skye and Yoru.",
+            "slug": "what-is-valorant",
+            "img_path": "assets/img/blogs-new/valorant.jpg",
+            "date": "june 25,2020",
+            "category": "VALORANT",
+            "category_slug":"valorant",
+            "author": "Çağrı Demirtaş",
+            "author_slug":"cagri-demirtas",
+            "comment_count":4
+        },
+        {
+            "id": 1,
+            "title": "What is PES",
+            "excerpt": "Pro Evolution Soccer (abbreviated as PES and currently branded as eFootball PES), known",
+            "content": "Pro Evolution Soccer (abbreviated as PES and currently branded as eFootball PES), known in Japan as Winning Eleven[a] (currently branded as eFootball Winning Eleven[b]), is a series of association football simulation video games developed and released annually since 1995. It is being developed and published by Konami. It consists of eighteen main instalments and several spin-off style titles and it has seen releases on many different platforms. It is itself a sister series of Konami's earlier International Superstar Soccer and has been released under different names before the name Pro Evolution Soccer was established worldwide. The series has consistently achieved critical and commercial success. PES has also been used in esports. eFootball.Open (formerly known as PES World Finals or PES League) is the esports world championship held by Konami annually since 2010. In association football circles, Pro Evolution Soccer has a longstanding rivalry with EA Sports' FIFA series. Listed as one of the best-selling video game franchises, the PES series has sold 108.6 million copies worldwide, in addition to 300 million mobile game downloads. Konami also created a similar mobile game called PESCM or Pro Evolution Soccer Club Manager.",
+            "slug": "what-is-pes",
+            "img_path": "assets/img/blogs-new/pes.jpg",
+            "date": "june 25,2020",
+            "category": "PES",
+            "category_slug":"pes",
+            "author": "Emin Başbayan",
+            "author_slug":"emin-basbayan",
+            "comment_count":4
+        },
+        {
+            "id": 1,
+            "title": "What is ZULA",
+            "excerpt": "Zula is an MMOFPS type video game distributed by MadByte Games. [one] The game is the ",
+            "content": "Zula is an MMOFPS type video game distributed by MadByte Games. [one] The game is the first Turkish MMOFPS game. The game was released on February 22, 2015. Zula can be downloaded for free on the official site and played after registration. The production of the game started in 2013. There are a total of 20 different characters with different stories, with 2 enemy formations named Zula, consisting of soldiers and intelligence officers, and Gladio from mercenaries. There are twenty three maps and two game modes in the game. In 2016, this game was removed from the Steam platform on July 12, 2017, on the grounds that it violated Steam rules. [2] In 2018, the problem was corrected and was released on the Steam platform again.  Games after Turkey first time in Brazil, the company Playspot was published in July 2016 by the game but in March 2020 the platform has been removed. The Thai server of the game was removed in September 2017. Turkey server Games servers that are active in Europe, Latin America and Iran are the servers.",
+            "slug": "what-is-zula",
+            "img_path": "assets/img/blogs-new/zula.jpg",
+            "date": "june 25,2020",
+            "category": "ZULA",
+            "category_slug":"zula",
+            "author": "Rabia Sönmez",
+            "author_slug":"rabia-sonmez",
+            "comment_count":4
+        }
+        ,
+        {
+            "id": 1,
+            "title": "What is Counter-Strike",
+            "excerpt": "Counter-Strike (CS) is a series of multiplayer first-person shooter video games in which",
+            "content": "Counter-Strike (CS) is a series of multiplayer first-person shooter video games in which teams of terrorists battle to perpetrate an act of terror (bombing, hostage-taking, assassination) while counter-terrorists try to prevent it (bomb defusal, hostage rescue). The series began on Windows in 1999 with the release of the first game, Counter-Strike. It was initially released as a modification ('mod') for Half-Life that was designed by Minh 'Gooseman' Le and Jess 'Cliffe' Cliffe before the rights to the mod's intellectual property were acquired by Valve, the developers of Half-Life, who then turned Counter-Strike into a retail product. The original Counter-Strike was followed by Counter-Strike: Condition Zero, developed by Turtle Rock Studios and released in March 2004. A previous version of Condition Zero that was developed by Ritual Entertainment was released alongside it as Condition Zero: Deleted Scenes. Eight months later, Valve released Counter-Strike: Source, a remake of the original Counter-Strike and the first in the series to run on Valve's newly created Source engine.[4] The fourth game in the main series, Counter-Strike: Global Offensive, was released by Valve in 2012 for Windows, OS X, Xbox 360, and PlayStation 3. Hidden Path Entertainment, who worked on Counter-Strike: Source post-release, helped to develop the game alongside Valve.[5] There have been several third-party spin-off titles created for Asian markets over the years. These include the Counter-Strike Online series, Counter-Strike Neo, and Counter-Strike Nexon: Studio.",
+            "slug": "what-is-counter-strike",
+            "img_path": "assets/img/blogs-new/counter-scrike.jpg",
+            "date": "june 25,2020",
+            "category": "Counter-Strike",
+            "category_slug":"counter-strike",
+            "author": "Emin Başbayan",
+            "author_slug":"emin-basbayan",
+            "comment_count":4
+        }
+        ,
+        {
+            "id": 1,
+            "title": "What is DOOM",
+            "excerpt": "Doom (stylized as DooM) is a 1993 first-person shooter (FPS) game developed by id Software",
+            "content": "Doom (stylized as DooM) is a 1993 first-person shooter (FPS) game developed by id Software for MS-DOS. Players assume the role of a space marine, popularly known as Doomguy, fighting his way through hordes of invading demons from Hell. The first episode, comprising nine levels, was distributed freely as shareware and played by an estimated 15–20 million people within two years; the full game, with two further episodes, was sold via mail order. An updated version with an additional episode and more difficult levels, The Ultimate Doom, was released in 1995 and sold at retail.Doom is one of the most significant games in video game history, frequently cited as one of the greatest games of all time. Along with its predecessor Wolfenstein 3D, it helped define the FPS genre and inspired numerous similar games, known as Doom clones. It pioneered online distribution and technologies including 3D graphics, networked multiplayer gaming, and support for custom modifications via packaged WAD files. Its graphic violence and hellish imagery also made it one of the top video game controversies in history. Doom has been ported to numerous platforms. The Doom franchise continued with Doom II: Hell on Earth (1994) and expansion packs including Master Levels for Doom II (1995). The source code was released in 1997, inspiring further adaptations. Doom 3, a horror game built with the id Tech 4 engine, was released in 2004, followed by a 2005 Doom film. id returned to the fast-paced action of the original games with the 2016 reboot Doom and the 2020 sequel Doom Eternal.",
+            "slug": "what-is-doom",
+            "img_path": "assets/img/blogs-new/doom.jpg",
+            "date": "june 25,2020",
+            "category": "DOOM",
+            "category_slug":"doom",
+            "author": "Rabia Sönmez",
+            "author_slug":"rabia-sonmez",
+            "comment_count":4
+        }
+    ],
+    "blog4": [
+        {
+            "id": 1,
+            "title": "What is Call of Duty",
+            "excerpt": "Call of Duty is a first-person shooter video game franchise published by Activision. ",
+            "content": "Call of Duty is a first-person shooter video game franchise published by Activision. Starting out in 2003, it first focused on games set in World War II. Over time, the series has seen games set in the midst of the Cold War, futuristic worlds, and outer space. The games were first developed by Infinity Ward, then also by Treyarch and Sledgehammer Games. Several spin-off and handheld games were made by other developers. The most recent title, Call of Duty: Black Ops Cold War, was released on November 13, 2020. The series originally focused on the World War II setting, with Infinity Ward developing the first (2003) and second (2005) titles in the series and Treyarch developing the third (2006). Call of Duty 4: Modern Warfare (2007) introduced a new, modern setting, and proved to be the breakthrough title for the series, creating the Modern Warfare sub-series. The game's legacy also influenced the creation of a remastered version, released in 2016. Two other entries, Modern Warfare 2 (2009) and 3 (2011), were made. The sub-series received a soft-reboot with Modern Warfare in 2019. Infinity Ward have also developed two games outside of the Modern Warfare sub-series, Ghosts (2013) and Infinite Warfare (2016). Treyarch made one last World War II-based game, World at War (2008), before releasing Black Ops (2010) and subsequently creating the Black Ops sub-series. Four other entries, Black Ops II (2012), III (2015), 4 (2018), and Cold War (2020) were made, the latter in conjunction with Raven Software. Sledgehammer Games, who were co-developers for Modern Warfare 3, have also developed two titles, Advanced Warfare (2014) and WWII (2017).",
+            "slug": "what-is-call-of-duty",
+            "img_path": "assets/img/blogs-new/call-of-duty.jpg",
+            "date": "june 25,2020",
+            "category": "Call of Duty",
+            "category_slug":"call-of-duty",
+            "author": "Çağrı Demirtaş",
+            "author_slug":"cagri-demirtas",
+            "comment_count":4
+        }
+    ],
+    "category": [
+        {
+            "id": 1,
+            "name": "LOL",
+            "excerpt": "Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consectetur adipisicing elit    dolor sit amet, consectetur adipisicing elit eiusmod tempor",
+            "slug": "lol",
+            "img_path": "assets/img/blogs-new/lol.jpg",
+            "date": "june 25,2020"
+        }, {
+            "id": 1,
+            "name": "PUBG",
+            "excerpt": "Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consectetur adipisicing elit    dolor sit amet, consectetur adipisicing elit eiusmod tempor",
+            "slug": "pubg",
+            "img_path": "assets/img/blogs-new/pubg.jpg",
+            "date": "june 25,2020"
+        }, {
+            "id": 1,
+            "name": "FORNITE",
+            "excerpt": "Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consectetur adipisicing elit    dolor sit amet, consectetur adipisicing elit eiusmod tempor",
+            "slug": "fortinate",
+            "img_path": "assets/img/blogs-new/fornite.jpg",
+            "date": "june 25,2020"
+        }, {
+            "id": 1,
+            "name": "GTA",
+            "excerpt": "Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consectetur adipisicing elit    dolor sit amet, consectetur adipisicing elit eiusmod tempor",
+            "slug": "gta",
+            "img_path": "assets/img/blogs-new/gta.jpg",
+            "date": "june 25,2020"
+        }, {
+            "id": 1,
+            "name": "SIMS",
+            "excerpt": "Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consectetur adipisicing elit    dolor sit amet, consectetur adipisicing elit eiusmod tempor",
+            "slug": "sims",
+            "img_path": "assets/img/blogs-new/sims.jpg",
+            "date": "june 25,2020"
+        }, {
+            "id": 1,
+            "name": "MINECRAFT",
+            "excerpt": "Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consectetur adipisicing elit    dolor sit amet, consectetur adipisicing elit eiusmod tempor",
+            "slug": "minecraft",
+            "img_path": "assets/img/blogs-new/minecraft.jpg",
+            "date": "june 25,2020"
+        }, {
+            "id": 1,
+            "name": "VALORANT",
+            "excerpt": "Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consectetur adipisicing elit    dolor sit amet, consectetur adipisicing elit eiusmod tempor",
+            "slug": "valorant",
+            "img_path": "assets/img/blogs-new/valorant.jpg",
+            "date": "june 25,2020"
+        }, {
+            "id": 1,
+            "name": "FIFA",
+            "excerpt": "Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consectetur adipisicing elit    dolor sit amet, consectetur adipisicing elit eiusmod tempor",
+            "slug": "fifa",
+            "img_path": "assets/img/blogs-new/fifa.jpg",
+            "date": "june 25,2020"
+        }, {
+            "id": 1,
+            "name": "PES",
+            "excerpt": "Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consectetur adipisicing elit    dolor sit amet, consectetur adipisicing elit eiusmod tempor",
+            "slug": "pes",
+            "img_path": "assets/img/blogs-new/pes.jpg",
+            "date": "june 25,2020"
+        }, {
+            "id": 1,
+            "name": "ZULA",
+            "excerpt": "Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consectetur adipisicing elit    dolor sit amet, consectetur adipisicing elit eiusmod tempor",
+            "slug": "zula",
+            "img_path": "assets/img/blogs-new/zula.jpg",
+            "date": "june 25,2020"
+        }
+    ],
+    "tag": [
+        {
+            "id": 1,
+            "name": "Here’s our take on the latest technology",
+            "slug": "here_our_take_on",
+            "category":"category",
+            "date": "june 25,2020"
+        }
+    ],
+    "comment": [
+        {
+            "author_slug":"laim_satah",
+            "author":"Laim Satah",
+            "comment":"Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consectetur adipisicing elit    dolor sit amet, consectetur adipisicing elit eiusmod tempor",
+            "date":"june 25,2020",
+            "img_path":"assets/img/author/2.png"
+        },
+        {
+            "author_slug":"ali_yildiz",
+            "author":"Ali Yıldız",
+            "comment":"Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consectetur adipisicing elit    dolor sit amet, consectetur adipisicing elit eiusmod tempor",
+            "date":"june 26,2020",
+            "img_path":"assets/img/author/3.png",
+            "comment_id":2
+        },
+        {
+            "author_slug":"micheal_antonio",
+            "author":"Micheal Antonio",
+            "comment":"Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consectetur adipisicing elit    dolor sit amet, consectetur adipisicing elit eiusmod tempor",
+            "date":"june 27,2020",
+            "img_path":"assets/img/author/2.png"
+        }
+    ],
+    "author": [
+        {
+            "name":"Emin Başbayan",
+            "slug":"emin-basbayan",
+            "profile":"No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that aextremely painful. Nor again is there anyone who loves",
+            "title":"Front-End Developer",
+            "img_path":"assets/img/team/emin.jpg",
+            "mail":"emin@gmail.com"
+        },
+        {
+            "name":"Rabia Sönmez",
+            "slug":"rabia-sonmez",
+            "profile":"No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that aextremely painful. Nor again is there anyone who loves",
+            "title":"Front-End Developer",
+            "img_path":"assets/img/team/rabia.jpg",
+            "mail":"rabia@gmail.com"
+        },
+        {
+            "name":"Çağrı Demirtaş",
+            "slug":"cagri-demirtas",
+            "profile":"No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that aextremely painful. Nor again is there anyone who loves",
+            "title":"Front-End Developer",
+            "img_path":"assets/img/team/cagri.jpg",
+            "mail":"cagri@gmail.com"
+        }
+    ]
+}
